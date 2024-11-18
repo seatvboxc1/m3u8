@@ -41,9 +41,9 @@ http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 #EXTINF:-1 group-title="TVB",無線衛星新聞台
 http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="港台電視 31" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="港台電視","港台電視 31
+#EXTINF:-1 tvg-name="港台電視 31" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="港台電視",港台電視 31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
-#EXTINF:-1 tvg-name="港台電視 32" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="港台電視","港台電視 32
+#EXTINF:-1 tvg-name="港台電視 32" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="港台電視",港台電視 32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 
 #EXTINF:-1 group-title="VIU",viutv6 96
