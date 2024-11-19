@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="港台電視 31" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="港台電視","港台電視 31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
+#EXTINF:-1 tvg-name="港台電視 32" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="港台電視","港台電視 32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+#EXTINF:-1 logo="/media/AiDisk_a5/icon" tvg-id="6bc3f7e184d521e5d59acb12d726d919" tvg-chno="31",港台電視 31
+http://192.168.18.213:9981/stream/channelid/1643627371?ticket=e5e275be40da6829a7988323e4a8e3240f876b3a&profile=pass
+#EXTINF:-1 logo="/media/AiDisk_a5/icon" tvg-id="13233e5931ac033a7dd77dfef77d08de" tvg-chno="32",港台電視 32
+http://192.168.18.213:9981/stream/channelid/1497244435?ticket=7638c1bd2be642de43ae8fa0c5e5e0852689cd9a&profile=pass
+#EXTINF:-1 logo="/media/AiDisk_a5/icon" tvg-id="21548ba8f4a426c4b1f9c71bafea9178" tvg-chno="33",中央電視台綜合頻道（CCTV-1綜合)
+http://192.168.18.213:9981/stream/channelid/680219681?ticket=1f77c66f83cb14e30455595190151512b1087805&profile=pass
+#EXTINF:-1 logo="/media/AiDisk_a5/icon" tvg-id="18bffc3cd92ee01f17fc04f893e1b54e" tvg-chno="34",中國環球電視網紀錄頻道 (CGTN紀錄頻道)
+http://192.168.18.213:9981/stream/channelid/1023196952?ticket=2b87eceb7e73d8de2432b35015b0e1f29823e646&profile=pass
+#EXTINF:-1 logo="/media/AiDisk_a5/icon" tvg-id="5773924d49867a66ce966c8008f2e52d" tvg-chno="76",*HOY 國際財經台
+http://192.168.18.213:9981/stream/channelid/1301443415?ticket=265ea771b9e62a4ae48f29ea740ff8f121921b7d&profile=pass
+#EXTINF:-1 logo="/media/AiDisk_a5/icon" tvg-id="b11b18378dad2d96363a1c92e2591742" tvg-chno="76",HOY 國際財經台
+http://192.168.18.213:9981/stream/channelid/924326833?ticket=6c634bd459122a9941b57897027db60ce70908de&profile=pass
+#EXTINF:-1 logo="/media/AiDisk_a5/icon" tvg-id="752e0f7a1f0a8bbc368e087d66b7204b" tvg-chno="77",*HOY TV
+http://192.168.18.213:9981/stream/channelid/2047815285?ticket=35e4cbb49c043aa504f831a6f9303d14bdbb8270&profile=pass
+#EXTINF:-1 logo="/media/AiDisk_a5/icon" tvg-id="39cb6e69529d3f4eef0c0d5a2553c9f3" tvg-chno="77",HOY TV
+http://192.168.18.213:9981/stream/channelid/1768868665?ticket=1ea827396765aa4bb512d95c886079979b5c6a75&profile=pass
+#EXTINF:-1 logo="/media/AiDisk_a5/icon" tvg-id="664766a765e3b87301aa104258303b97" tvg-chno="78",*HOY 資訊台
+http://192.168.18.213:9981/stream/channelid/661014374?ticket=0d657a2deb47423d4363cccc4665233678c404d8&profile=pass
+#EXTINF:-1 logo="/media/AiDisk_a5/icon" tvg-id="d44907ad833cd6a72b85d3046acd3c5a" tvg-chno="78",HOY 資訊台
+http://192.168.18.213:9981/stream/channelid/755452372?ticket=97cbd8566809a6858ba8e636a785b84d9800811e&profile=pass
+#EXTINF:-1 logo="/media/AiDisk_a5/icon" tvg-id="43699abf02758ac398188afdbfdd2cac" tvg-chno="81",翡翠台
+http://192.168.18.213:9981/stream/channelid/1067084099?ticket=6b0091212d9bfb7faf5a157803ce01b5c7f22215&profile=pass
+#EXTINF:-1 logo="/media/AiDisk_a5/icon" tvg-id="d22b1ea82247638b99d41a4f03518458" tvg-chno="82",TVB Plus
+http://192.168.18.213:9981/stream/channelid/673065938?ticket=24b4433884e7b622efd64bfe0bf327371fc74252&profile=pass
+#EXTINF:-1 logo="/media/AiDisk_a5/icon" tvg-id="26cc45c62bf033b37a0441378583d3bf" tvg-chno="83",無綫新聞台
+http://192.168.18.213:9981/stream/channelid/1178979366?ticket=226d39d0fce7ff875edee5e0967b5f9267fd9d40&profile=pass
+#EXTINF:-1 logo="/media/AiDisk_a5/icon" tvg-id="f5efbde2f239c69fefc4da882d33082a" tvg-chno="84",明珠台
+http://192.168.18.213:9981/stream/channelid/1656614901?ticket=0b9be6e171d3ff485241d2270b48f2ce06f31dad&profile=pass
+#EXTINF:-1 logo="/media/AiDisk_a5/icon" tvg-id="a3ea7a9c0c8d4e25050569d00974d74c" tvg-chno="85",鳳凰衛視香港台
+http://192.168.18.213:9981/stream/channelid/477817507?ticket=5cec8ea72fe446f07ab32c574db0ddc167780eb2&profile=pass
+#EXTINF:-1 logo="/media/AiDisk_a5/icon" tvg-id="ebe65619d03195c40f3f0b1a22cec1a0" tvg-chno="96",ViuTVsix
+http://192.168.18.213:9981/stream/channelid/425125611?ticket=bc4a81340f543673b14e1d66571baba096b825bc&profile=pass
+#EXTINF:-1 logo="/media/AiDisk_a5/icon" tvg-id="c9a09afc18c9087ca3946f839a63cbec" tvg-chno="99",ViuTV
+http://192.168.18.213:9981/stream/channelid/2090508489?ticket=8e84affbbbb7bab7174ebc078ed8e276308ce3a8&profile=pass
