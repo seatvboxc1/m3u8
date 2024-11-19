@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="0e2c26092c3670a46a946bb1b6522680" tvg-chno="31",港台電視 31
+http://admin:Aa123456@hkelediy.online:39981/stream/channelid/153496590?ticket=cc8254d586549c057cfa24799086ad377a893ec9&profile=pass
+
 #EXTINF:-1 group-title="TVB",翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 group-title="TVB",TVB Plus
